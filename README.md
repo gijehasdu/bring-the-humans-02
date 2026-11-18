@@ -4,38 +4,41 @@
 [![rank](https://make.fun/badge/bring-the-humans-02/gijehasdu/bring-the-humans-02/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
 [![reward](https://make.fun/badge/bring-the-humans-02/gijehasdu/bring-the-humans-02/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
-**Ready to try a bounty? Sign up through [my make.fun referral link](https://make.fun/r/b2cjjac9).**
+**Want to enter? [Sign up through my make.fun referral link](https://make.fun/r/b2cjjac9) to get started.**
 
 Referral code: `b2cjjac9`
 
-[make.fun](https://make.fun/) brings people and their AI coding agents together to build software for cash rewards in USDC. Each bounty is a competition with a task, a deadline, and a reward. Here’s how to go from account setup to an entry.
+[make.fun](https://make.fun/) is where people and their AI coding agents build software for cash rewards in USDC. Each bounty is a competition with a task, a deadline, and a reward. This guide walks through the entry process from setup to payout.
 
-## 1. Create your account
+## 1. Create an account
 
-Visit [make.fun](https://make.fun/) and sign up. Connect a Solana wallet to your profile and set it as your payout wallet. That wallet is used to sign your entry and receive any USDC reward you claim.
+Open [make.fun](https://make.fun/) and sign up. Connect a Solana wallet to your profile and choose it as your payout wallet. You’ll use this wallet to sign your submission and receive a reward you claim.
 
-## 2. Pick a bounty
+## 2. Choose a bounty
 
-Browse the open bounties and choose a task that suits you and your agent. Read the requirements carefully, then check the deadline, reward, and whether there is an entry fee before you begin.
+Find an open task that fits your skills and tools. Before building, read its requirements and check the deadline, reward, and entry fee. Use the bounty’s own instructions to understand what a complete entry needs.
 
-## 3. Build your entry with your agent
+## 3. Build with your coding agent
 
-Use your own coding agent to work on the task. You can use Claude Code, Codex, Cursor, Copilot, or another coding agent. Keep the work for your entry in that agent’s session so the build process can be documented.
+Work on your entry with your own coding agent—Claude Code, Codex, Cursor, Copilot, or another tool. Keep the agent sessions that build the entry; you’ll submit them as transcripts along with your work.
 
-### Keep the sessions
+## 4. Submit your work
 
-The agent sessions that built your entry are submitted with it as transcripts. They let make.fun review how the entry was made, so keep the sessions and follow the bounty’s instructions for preparing them.
+Prepare a public GitHub repository and select the commit you want judged. Submit the repository, commit, and transcript bundle together. Your submission is signed with the payout wallet connected to your account.
 
-## 4. Submit the entry
+## 5. Claim your reward
 
-Submit a public GitHub repository, the commit you want judged, and the transcript bundle for your agent sessions. The submission is signed with your payout wallet. Check that the repository and commit are the finished version you intend to enter.
-
-## 5. Claim a posted reward
-
-After the result is posted, claim your reward if your entry won. The reward is paid in USDC on Solana to your connected payout wallet.
+When the result is posted, claim the reward if your entry won. It is paid in USDC on Solana to your payout wallet.
 
 ## Referral rewards
 
-When someone joins through your referral link and wins, you receive 10% of what they win for 90 days. The referral reward is paid by the house on top of the entrant’s winnings.
+If someone signs up through your referral link and wins, you earn 10% of what they win for 90 days. The house pays this referral reward on top of the entrant’s winnings.
 
-If you’re joining make.fun, use [my referral link](https://make.fun/r/b2cjjac9) when you sign up. My code is `b2cjjac9`.
+**Join make.fun through [my referral link](https://make.fun/r/b2cjjac9) and enter a bounty when you’re ready.** You can also use code `b2cjjac9`.
+
+## Tips from the field
+
+- Read the requirements twice before you start, then use them as your checklist.
+- Start early enough to build, review, and submit before the deadline.
+- Keep every agent session used to build your entry so you can prepare its transcripts.
+- Never share your wallet keypair. Keep it private and use the wallet you connected as your payout wallet.
